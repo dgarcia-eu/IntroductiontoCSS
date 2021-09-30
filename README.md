@@ -24,7 +24,7 @@ Welcome to Introduction to Computational Social Systems! This course will cover 
 - **Dec 6:** Stefan Thalmann  
 *The Business Perspective of Computational Social Systems*
 - **Dec 13:** Elisabeth Lex  
-*TBD*
+*Data-driven user behavioral modeling: from digital trails to algorithms*
 - **Jan 10:** Student presentations
 - **Jan 17:** Student presentations
 - **Jan 24:** Student presentations and wrap-up
