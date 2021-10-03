@@ -133,24 +133,30 @@ Maia de Oliveira Wood
 
 - Groups can be the same as in Foundations of CSS, but not necessarily
 
-- Send the list of group names to dgarcia@tugraz.at before Oct 25th
+- Send the list of group names to css@tugraz.at before Oct 25th
 
-- All students in the group should participate in the project work, the report writing, and the presentation. If problems arise, contact  dgarcia@tugraz.at
+- All students in the group should participate in the project work, the report writing, and the presentation. If problems arise, contact  css@tugraz.at
 
 ---
 
 
 # Keeping up to date
 
-1. CSS Programme Discord:
+- CSS Programme Discord: https://discord.gg/qQYhh8vn
 
-2. Teach center: https://tc.tugraz.at/main/course/view.php?id=4069
+- Teach center: https://tc.tugraz.at/main/course/view.php?id=4069
 
-3. Forum in teach center (Discord is preferred)
+.pull-left[
+- Forum in teach center (Discord is preferred)
 
-4. Course webpage: www.dgarcia.eu/introductiontocss
+- Course webpage: www.dgarcia.eu/introductiontocss
 
-5. Email for more questions: css@tugraz.at
+- Email for more questions: css@tugraz.at
+]
+.pull-right[
+.center[Discord server QR code:
+![](frame.png)]
+]
 ---
 
 # Questions?
