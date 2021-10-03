@@ -18,7 +18,7 @@ Welcome to Introduction to Computational Social Systems! This course will cover 
 - **Nov 15:** Eduardo Veas  
 *TBD*
 - **Nov 22:** Matthias Wendland  
-*TBD*
+*Law by Design: Legal frameworks for human-centered socio-technical systems*
 - **Nov 29:** Viktoria Pammer-Schindler  
 *Designing technologies as parts of socio-technical systems*
 - **Dec 6:** Stefan Thalmann  
