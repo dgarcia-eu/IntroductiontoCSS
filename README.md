@@ -15,10 +15,11 @@ Welcome to Introduction to Computational Social Systems! This course will cover 
 *Digital traces in social science research: Opportunities and challenges*
 - **Nov 8:** Guilherme Maia de Oliveira Wood  
 *Understanding, shaping, and interacting with the human cognitive architecture*
-- **Nov 15:** Eduardo Veas  
-*TBD*
 - **Nov 22:** Matthias Wendland  
 *Law by Design: Legal frameworks for human-centered socio-technical systems*
+- **Rescheduled Nov 24th:** Eduardo Veas  
+*Human Factors: Towards Humane Machine Interaction*
+*10am on Webex (check teach center forum for link)*
 - **Nov 29:** Viktoria Pammer-Schindler  
 *Designing technologies as parts of socio-technical systems*
 - **Dec 6:** Stefan Thalmann  
